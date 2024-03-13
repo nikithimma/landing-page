@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:"Montserrat", sans-serf;
+}
+header{
+    display:flex;
+    justify-content:flex-end;
+    background-color:blue;
+
+}
+
